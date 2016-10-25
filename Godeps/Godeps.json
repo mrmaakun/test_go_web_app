@@ -1,0 +1,6 @@
+{
+	"ImportPath": "github.com/mrmaakun/test_web_app",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": []
+}
